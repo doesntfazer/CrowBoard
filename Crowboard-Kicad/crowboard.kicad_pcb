@@ -171,7 +171,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 06e6246e-c13e-4185-bb0b-7e08ca8331a8)
-    (at 285.655 107.568)
+    (at 110.33125 89.69375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/af0f2ca5-e499-495a-baa3-f7da573d2e8f")
@@ -221,7 +221,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 0aa2d383-1bdd-4dcb-b0d1-699efad1e260)
-    (at 241.06 124.33)
+    (at 73.065 265.717)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/ac6a6c02-1c19-437f-a5fb-a5e6f595f907")
@@ -265,7 +265,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 0b11f89f-4ec9-42ac-b53b-ff1e29296c54)
-    (at 381.62 38.31)
+    (at 213.625 179.697)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/f13fad0a-040c-4346-a30a-a6e6e106d2e6")
@@ -309,12 +309,12 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 19b1efdb-a9fc-4b47-8244-e1fc60c95fb0)
-    (at 67.31 38.1)
+    (at 72.23125 51.59375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/396c5a80-4ff8-44c1-8a57-e4c98cabc5ce")
     (attr through_hole)
-    (fp_text reference "MX2" (at 0 -7.14375 180) (layer "Dwgs.User")
+    (fp_text reference "MX2" (at 5.55625 -5.55625 180) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.2)))
       (tstamp 0a1627f9-0b79-4772-a8cd-456afaae22bd)
     )
@@ -359,7 +359,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 1d072f83-4b60-4393-bf25-09009a3a53d7)
-    (at 361.45 58.48)
+    (at 193.455 199.867)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/89c5d182-41d2-45b8-ae31-1c063afafc3f")
@@ -403,7 +403,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 1d948cd0-f6e4-4bae-aaaf-c0cfc5cdd7a9)
-    (at 439.42 63.5)
+    (at 186.53125 89.69375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/e795d070-d922-4c86-96be-628fb7c20b0b")
@@ -453,7 +453,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 2739b5e3-8542-4431-aaf2-d38494e9de82)
-    (at 220.26 127)
+    (at 52.265 268.387)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/19de09e0-2140-4740-86ac-d0461bebcd9d")
@@ -497,7 +497,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 28db63c5-3e0f-4c65-a865-117d67c88267)
-    (at 230.66 124.33)
+    (at 62.665 265.717)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/3c20f0fc-8343-4020-8a3e-3e57d5703769")
@@ -541,7 +541,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 2b637390-0702-43c5-afc6-c4a4415716a6)
-    (at 401.79 18.14)
+    (at 128.5875 80.16875)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/f698b2a3-a12b-4605-a7a0-4451cb8b9956")
@@ -585,7 +585,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 2cfe946b-ef42-4712-aba1-8371f5f81b04)
-    (at 265.485 47.058)
+    (at 53.18125 70.64375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/1b96b35b-30f5-447d-8222-00cd03980a79")
@@ -635,7 +635,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 2f5f05ed-fe1d-44f8-b702-50247c95a229)
-    (at 261.86 118.99)
+    (at 93.865 260.377)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/b5a460b3-faa4-4823-b8c2-f8e20060bb18")
@@ -679,7 +679,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 2fd51eac-8504-42a0-bdcd-38e8e2a03277)
-    (at 251.46 124.33)
+    (at 83.465 265.717)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/5240f583-bfe1-47b3-8854-35fe7d707ddb")
@@ -723,7 +723,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 3980c9e5-606f-4a2f-93a5-6b95b9e85b43)
-    (at 225.145 107.568)
+    (at 91.28125 51.59375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/2720237c-ea1f-4b1a-85bd-ecc2a02d8695")
@@ -773,7 +773,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 3a694b42-670f-4cf1-ba79-aea0eadc7924)
-    (at 282.66 118.99)
+    (at 114.665 260.377)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/714a8ff2-d897-4e2a-8b86-442d9063b42f")
@@ -817,7 +817,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 3b64215c-bc33-4fee-9890-85d555222827)
-    (at 303.46 118.99)
+    (at 135.465 260.377)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/f7836ff7-601e-4f86-8ab0-e5c63d9fc538")
@@ -861,7 +861,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 3cc963c5-8514-48de-8b6b-23e261423ac7)
-    (at 366.335 26.888)
+    (at 167.48125 70.64375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/c0815288-d634-48eb-bc76-c7a7d35eddf4")
@@ -911,7 +911,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 3cffb424-b780-48b4-8f2b-f0ba5c12cd24)
-    (at 429.514 154.686)
+    (at 167.48125 108.74375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/5c786fc2-36c8-4175-98af-b46c69e736c5")
@@ -961,7 +961,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 442a48c3-46a0-4afd-8492-4ee22b4bb372)
-    (at 251.46 121.66)
+    (at 83.465 263.047)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/3e5971f2-8ace-4ff2-b964-efec5d249d33")
@@ -1005,7 +1005,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 44774ced-613c-41f0-aa80-c983b0a8caac)
-    (at 272.26 121.66)
+    (at 104.265 263.047)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/bfe597c9-965f-4f05-94b4-a1ce501c6551")
@@ -1049,7 +1049,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 4657a725-f83f-41d7-8d78-5df6c4ca4b46)
-    (at 245.315 26.888)
+    (at 53.18125 89.69375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/0ed10bb4-6a9d-4353-9c40-ebc22dd2d4f1")
@@ -1099,7 +1099,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 4a6756df-0956-48b1-a055-59020a5b11c2)
-    (at 272.26 118.99)
+    (at 104.265 260.377)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/bd05cb2c-8489-4f03-a41c-bf468244f791")
@@ -1143,7 +1143,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 4dfcd94b-440e-45d8-ba61-e0e18e3022c5)
-    (at 220.26 118.99)
+    (at 52.265 260.377)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/65a05499-b4ad-41d8-b711-a3ea35e4a705")
@@ -1187,7 +1187,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 4f81a157-06af-4078-b760-3a3f0139ee89)
-    (at 261.86 121.66)
+    (at 93.865 263.047)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/ba940214-a174-4344-81c8-063cd7335c4f")
@@ -1231,7 +1231,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 542ada44-5625-4f1a-ac2c-d94bd76d1cbb)
-    (at 282.66 121.66)
+    (at 114.665 263.047)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/cb73cebd-0885-4427-a728-674e433818d2")
@@ -1275,7 +1275,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 57d975d4-6607-4de8-909d-121b06b236cd)
-    (at 346.165 26.888)
+    (at 205.58125 51.59375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/9e324dcb-1f60-4bf7-88bc-d04236e2e217")
@@ -1325,7 +1325,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 590f9d3f-54e3-42c8-b115-446144e2173f)
-    (at 225.145 87.398)
+    (at 72.23125 89.69375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/1869ab5c-6961-4f39-9fd4-b96d763c4f94")
@@ -1375,7 +1375,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 5b12bb61-076d-4c1f-9a6d-b399c284e4b7)
-    (at 48.26 38.1)
+    (at 53.18125 51.59375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/3a645b93-6395-4866-9f6e-66cca03e6ac6")
@@ -1425,7 +1425,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 63853c60-434d-4d34-b36a-7c3725778c6c)
-    (at 386.505 26.888)
+    (at 148.43125 89.69375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/ed123a9a-b4ed-484e-8634-ec42278055e5")
@@ -1475,7 +1475,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 66e69891-2ce9-49f2-a438-ea3428d85273)
-    (at 225.145 26.888)
+    (at 129.38125 108.74375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/0203d410-0596-4540-8f04-d71f2345636f")
@@ -1525,7 +1525,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 74c85198-e131-4593-808b-09cfcb3f2b20)
-    (at 265.485 26.888)
+    (at 129.4375 51.59375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/476559c4-bbb2-46fb-ba46-58064ffa6e09")
@@ -1575,7 +1575,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 7758ffd0-d4ff-4431-87e8-f39bad6301a7)
-    (at 230.66 121.66)
+    (at 62.665 263.047)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/277f7d09-156a-4539-8f47-bdd52e6c4835")
@@ -1619,7 +1619,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 79845dfb-b6ce-4e73-a348-5d7e892fd9bb)
-    (at 251.46 127)
+    (at 83.465 268.387)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/67355813-9f04-4aa1-98e4-535c2a5de49e")
@@ -1663,7 +1663,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 7dbfc88e-c0f6-4bcf-9948-b1e1fc77098c)
-    (at 265.485 107.568)
+    (at 224.63125 89.69375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/432f0827-232c-47ca-a2d6-4df7db050696")
@@ -1713,7 +1713,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 84fa0978-7243-454d-81d8-df6a2ddf3863)
-    (at 265.485 67.228)
+    (at 224.63125 51.59375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/2d5b9617-75a7-4134-878a-371227962858")
@@ -1763,7 +1763,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 86476aaa-f891-4dff-a425-5d7e8de7d99f)
-    (at 325.995 26.888)
+    (at 148.4875 51.59375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/4207bd80-6fcb-4471-9ca7-44adf2a0043f")
@@ -1813,7 +1813,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 8842fdd6-98fb-4347-8d57-1355e8ae7a90)
-    (at 325.995 47.058)
+    (at 110.33125 70.64375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/9b7355a4-2169-41e7-800e-d19c7f73e6b4")
@@ -1863,7 +1863,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 910d8f29-bf6a-405a-b101-8f86e9529841)
-    (at 293.06 124.33)
+    (at 125.065 265.717)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/741ee77a-d5b6-4260-9b83-f45568354aed")
@@ -1907,7 +1907,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 92a2e3c0-e206-4adf-bb3d-cf2cacf27f2e)
-    (at 346.165 47.058)
+    (at 148.43125 70.64375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/b53ee289-a5fa-4c27-b726-24dc5825a8fd")
@@ -1957,7 +1957,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 93417b54-0f2c-4e6a-93bb-c83d4c9396f6)
-    (at 285.655 26.888)
+    (at 91.28125 89.69375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/2524145f-2d9f-40c3-b843-9cdbeb0b60ea")
@@ -2007,7 +2007,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 96970d9d-7222-4132-b63d-52a2b8c83422)
-    (at 375.92 93.98)
+    (at 91.28125 70.64375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/d28cd612-8484-47b4-bc14-8e0c82384e3d")
@@ -2057,7 +2057,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 96c33868-d76e-47a5-be6d-c61693b91cc4)
-    (at 325.995 107.568)
+    (at 205.58125 70.64375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/ef63b379-bb84-4768-bbdb-819fc61d7165")
@@ -2107,7 +2107,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp 98e5cc91-5723-41e4-bda9-08cd5cf79b8c)
-    (at 305.825 67.228)
+    (at 110.33125 108.74375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/94b23c41-0db3-4846-a38f-58fb08b4106a")
@@ -2157,7 +2157,7 @@
 
   (footprint "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH" (layer "F.Cu")
     (tedit 6224DF39) (tstamp 9a52d6a4-ec35-4a57-95d6-f8e1c328a743)
-    (at 337.82 177.8)
+    (at 169.825 319.187)
     (descr "Through hole straight pin header, 2x20, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x20 2.54mm double row")
     (property "Sheetfile" "crowboard.kicad_sch")
@@ -2613,7 +2613,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp 9bb893e9-d4d9-42ec-aeb5-06b6f21d0b46)
-    (at 251.46 118.99)
+    (at 83.465 260.377)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/addc4961-823b-4ed3-a193-2d73c47b07dc")
@@ -2657,7 +2657,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp a31c9ac4-19d3-435b-a32a-8eee487f99fb)
-    (at 293.06 118.99)
+    (at 125.065 260.377)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/ceeb576c-e0c6-4782-8a62-ad25f273455d")
@@ -2701,7 +2701,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp a7efef89-bd23-4d40-8d32-7eb4c36326e3)
-    (at 285.655 47.058)
+    (at 148.43125 108.74375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/3568c4c6-e57e-458a-aa55-cf481ef025d3")
@@ -2751,7 +2751,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp a9799945-6524-4792-9375-160ea9239fdb)
-    (at 305.825 26.888)
+    (at 129.38125 70.64375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/371d5ff3-6538-4488-b179-d4f6bb8d7f92")
@@ -2800,58 +2800,8 @@
   )
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
-    (tedit 5E74EA2A) (tstamp aa594b1f-fd74-46a0-a124-e1d2aed26358)
-    (at 245.315 47.058)
-    (property "Sheetfile" "crowboard.kicad_sch")
-    (property "Sheetname" "")
-    (path "/10b2af37-12b7-4136-9935-8314f8334657")
-    (attr through_hole)
-    (fp_text reference "MX7" (at 0 -7.14375 180) (layer "Dwgs.User")
-      (effects (font (size 1 1) (thickness 0.2)))
-      (tstamp 90a74f5e-7380-4ff0-bb5e-d9d5841f174b)
-    )
-    (fp_text value "MX-NoLED" (at 0 -5.08 180) (layer "F.SilkS") hide
-      (effects (font (size 1 1) (thickness 0.2)))
-      (tstamp bd8354e6-6367-4dcd-aa20-50a90c915d71)
-    )
-    (fp_line (start 9 -8.5) (end 9 8.5) (layer "Dwgs.User") (width 0.1524) (tstamp 027a4dad-00b4-4a53-9b42-432b384a192d))
-    (fp_line (start -9 8.5) (end -9 -8.5) (layer "Dwgs.User") (width 0.1524) (tstamp 0be92f18-9451-48f6-a885-021a28204fa8))
-    (fp_line (start -9 -8.5) (end 9 -8.5) (layer "Dwgs.User") (width 0.1524) (tstamp 454079b5-5f56-4005-9bb0-cb1842e256b8))
-    (fp_line (start 9 8.5) (end -9 8.5) (layer "Dwgs.User") (width 0.1524) (tstamp df5e49c6-770d-49a3-bf1b-c97c8450671f))
-    (fp_line (start 6.9 6.9) (end -6.9 6.9) (layer "Cmts.User") (width 0.1524) (tstamp 4c90ebe5-93b6-420b-b1dc-c12cc22d9032))
-    (fp_line (start -6.9 6.9) (end -6.9 -6.9) (layer "Cmts.User") (width 0.1524) (tstamp 93be3a29-2795-4dcb-b650-950866dbdffa))
-    (fp_line (start -6.9 -6.9) (end 6.9 -6.9) (layer "Cmts.User") (width 0.1524) (tstamp d713a356-6e07-402d-bb59-0ebedc0ca5bc))
-    (fp_line (start 6.9 -6.9) (end 6.9 6.9) (layer "Cmts.User") (width 0.1524) (tstamp f28e0f09-8519-4a24-a7aa-2e5936bb6c3e))
-    (fp_line (start -9.525 9.525) (end 9.525 9.525) (layer "Eco1.User") (width 0.12) (tstamp 2b12877d-582c-4c5d-9e81-fa9198027b46))
-    (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer "Eco1.User") (width 0.12) (tstamp 349eabd2-9157-4e6f-84c8-33beed084473))
-    (fp_line (start 9.525 -9.525) (end 9.525 9.525) (layer "Eco1.User") (width 0.12) (tstamp 6ff2874f-e693-46ee-9e7b-44354f6e5884))
-    (fp_line (start -9.525 -9.525) (end -9.525 9.525) (layer "Eco1.User") (width 0.12) (tstamp 7763ef0b-f541-4d0b-a22e-baccd8a596e4))
-    (fp_line (start 7.5 7.5) (end -7.5 7.5) (layer "Eco2.User") (width 0.1524) (tstamp 38e40ecc-0b74-4360-b05d-5535ecf737f5))
-    (fp_line (start 7.5 -7.5) (end 7.5 7.5) (layer "Eco2.User") (width 0.1524) (tstamp 400ae9a8-defa-4428-993d-d331f4c802a6))
-    (fp_line (start -7.5 -7.5) (end 7.5 -7.5) (layer "Eco2.User") (width 0.1524) (tstamp 4493977a-c5ba-41d3-aae3-c78a888a1e07))
-    (fp_line (start -7.5 7.5) (end -7.5 -7.5) (layer "Eco2.User") (width 0.1524) (tstamp cd6bb9a6-42c6-4a03-bda5-c16581b40e6d))
-    (pad "" np_thru_hole circle locked (at 0 0 180) (size 3.4 3.4) (drill 3.4) (layers *.Cu *.Mask) (tstamp 2053ab26-1e1f-41f2-941a-2145e049f58a))
-    (pad "" np_thru_hole circle locked (at 5.5 0 180) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp 60d114cf-436a-4a34-a8b2-f3ea0b595440))
-    (pad "" np_thru_hole circle locked (at -5.5 0 180) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp 6889c197-edb9-49db-b836-92a3b5f208f1))
-    (pad "1" thru_hole circle locked (at 0 5.9 180) (size 2 2) (drill 1.2) (layers *.Cu *.Mask)
-      (net 90 "COL6") (pinfunction "COL") (pintype "passive") (tstamp c540006f-acfd-4f86-bab2-46f63ae58469))
-    (pad "2" thru_hole circle locked (at -5 3.8 41.9) (size 2 2) (drill 1.2) (layers *.Cu *.Mask)
-      (net 7 "Net-(D7-Pad2)") (pinfunction "ROW") (pintype "passive") (tstamp 8b02e6cb-4e88-4235-83ef-509b8e3d6638))
-    (model "/Users/danny/Documents/proj/custom-keyboard/kicad-libs/3d_models/mx-switch.wrl"
-      (offset (xyz 7.467599888 7.467599888 5.943599911))
-      (scale (xyz 0.4 0.4 0.4))
-      (rotate (xyz 270 0 180))
-    )
-    (model "/Users/danny/Documents/proj/custom-keyboard/kicad-libs/3d_models/SA-R3-1u.wrl"
-      (offset (xyz 0 0 11.93799982))
-      (scale (xyz 0.394 0.394 0.394))
-      (rotate (xyz 270 0 0))
-    )
-  )
-
-  (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp ad0b7577-2d20-4b4e-84d6-d463a72ffc4e)
-    (at 225.145 47.058)
+    (at 129.38125 89.69375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/074af1fb-32bd-446c-92b5-839404fb96e5")
@@ -2901,7 +2851,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp b1e3d7d1-5e1a-4783-b95d-60ad9975723b)
-    (at 230.66 118.99)
+    (at 62.665 260.377)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/17d630b3-6183-4bdf-8016-1b5d91762d3a")
@@ -2945,7 +2895,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp b2b23386-d0d5-4278-8953-0c9c0e5e73f7)
-    (at 220.26 121.66)
+    (at 52.265 263.047)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/9379332a-8ae4-4b97-8b72-74895a50761b")
@@ -2989,7 +2939,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp b8de7246-bd73-41f2-a3ae-ce7fc63f5aad)
-    (at 241.06 118.99)
+    (at 73.065 260.377)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/abb9ae10-fc0f-4fb7-b252-320bc11cd719")
@@ -3033,7 +2983,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp b9d80f6b-8563-42a8-bc28-951d02dd5c43)
-    (at 241.06 121.66)
+    (at 73.065 263.047)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/ac18033c-c79c-48e5-8527-f1542759f25f")
@@ -3077,7 +3027,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp bbe95b8a-8b74-437f-bc35-372bc66b2abb)
-    (at 305.825 47.058)
+    (at 224.63125 70.64375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/8bc6d645-f3b2-4a6a-b2e6-082c0afd0c1a")
@@ -3127,7 +3077,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp c7e3c050-9420-46cc-96a4-9f200295988e)
-    (at 225.145 67.228)
+    (at 110.3875 51.59375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/0fb1e777-b23e-4b50-8562-c356f7892661")
@@ -3177,7 +3127,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp cf5bcdde-b78a-4390-8fe2-addd2a0ea00b)
-    (at 261.86 127)
+    (at 93.865 268.387)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/c12ac4ea-0514-4c26-8722-d6fa2eea8301")
@@ -3221,7 +3171,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp d15c2cc9-b33f-4b74-bca1-21f4d8b5528c)
-    (at 346.165 67.228)
+    (at 167.48125 89.69375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/dd7176f7-5a2a-4cc8-9ac1-ae50d66543ce")
@@ -3271,7 +3221,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp d223ebfc-15a3-4701-8d7a-d84d07058fc5)
-    (at 285.655 67.228)
+    (at 186.53125 108.74375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/5add94ec-8cf0-4f32-99f1-ce504c86f431")
@@ -3321,7 +3271,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp d652afe8-bb44-4c73-a782-165d9817f4af)
-    (at 220.26 124.33)
+    (at 52.265 265.717)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/93fa2447-9a5e-4b81-9780-38814eeae71a")
@@ -3365,7 +3315,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp d9ecd9ae-ef0a-439f-b17a-557e46b82925)
-    (at 230.66 127)
+    (at 62.665 268.387)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/aa7bae6c-a18f-4151-8327-67cf4f8740dd")
@@ -3409,7 +3359,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp dd659b7b-4940-46bf-97d1-c3029ed22f43)
-    (at 272.26 127)
+    (at 104.265 268.387)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/c182ddb0-2dc1-4ece-892a-fe65b7f29a48")
@@ -3453,7 +3403,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp dda49b21-4dd3-4e8a-9d4a-85153c77233d)
-    (at 282.66 127)
+    (at 114.665 268.387)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/7759e686-488f-4e27-b306-af7c7110859e")
@@ -3497,7 +3447,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp df93d791-8a79-437a-b5ea-e96d471e8093)
-    (at 285.655 87.398)
+    (at 186.53125 51.59375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/8c4d4347-9764-42ff-8a7f-f707e5eb3a3f")
@@ -3547,7 +3497,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp e38228b8-f570-4323-92a4-94a583d77fda)
-    (at 272.26 124.33)
+    (at 104.265 265.717)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/67b3fc02-be90-4487-ad34-47cd15b6c917")
@@ -3591,7 +3541,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp e38cdad9-c640-479a-9e1b-6535fff2395a)
-    (at 305.825 107.568)
+    (at 205.58125 89.69375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/c9ab3a95-140d-47bc-bdc6-c9d0467abde0")
@@ -3641,7 +3591,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp e66c6e4e-52ed-4336-be58-8a481d21c694)
-    (at 293.06 121.66)
+    (at 125.065 263.047)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/715a1a20-1f3d-40a1-82ae-4a8d4bc0a283")
@@ -3685,7 +3635,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp e6aac409-58bf-43b2-86dd-1f74ec69d2cb)
-    (at 282.66 124.33)
+    (at 114.665 265.717)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/ceb6d9e5-c379-4bcd-869e-2f644c3f4208")
@@ -3729,7 +3679,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp e9e920f6-baec-4cdb-8085-ad6ca5c3b307)
-    (at 241.06 127)
+    (at 73.065 268.387)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/5c62e147-5163-42e9-916a-c7545e6348bc")
@@ -3773,7 +3723,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp f269a509-6bf1-4ac7-8fb0-11dc2a89d75a)
-    (at 341.28 78.65)
+    (at 173.285 220.037)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/7a683552-7b92-41c3-ae93-69201e25efcf")
@@ -3817,7 +3767,7 @@
 
   (footprint "Keebio-Parts:Diode-Hybrid-Back" (layer "F.Cu")
     (tedit 5B1AAB68) (tstamp f411bae7-3eb6-47c3-b570-090b95ebacb1)
-    (at 261.86 124.33)
+    (at 93.865 265.717)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/badd3b60-853b-48ed-bd49-a7e40b4499b1")
@@ -3861,7 +3811,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp f58c3928-37aa-4b6c-bc79-caa7d95369b8)
-    (at 245.315 67.228)
+    (at 72.23125 70.64375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/4f83943d-2df3-4e67-8277-1e5b1ce4e1f6")
@@ -3911,7 +3861,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp fa2ff9e1-8196-4d31-a0ae-921f79c66853)
-    (at 325.995 67.228)
+    (at 186.53125 70.64375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/b3f9120f-f09a-448c-a064-93efa9ad162f")
@@ -3961,7 +3911,7 @@
 
   (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "F.Cu")
     (tedit 5E74EA2A) (tstamp fcc432d2-09d4-4a9b-bc58-d500eeac8fb4)
-    (at 305.825 87.398)
+    (at 91.28125 108.74375)
     (property "Sheetfile" "crowboard.kicad_sch")
     (property "Sheetname" "")
     (path "/af6b0915-2afa-4e10-a1cb-174adbf6cdb7")
@@ -3997,6 +3947,56 @@
       (net 86 "COL2") (pinfunction "COL") (pintype "passive") (tstamp 82e5224d-f570-4682-a1fd-e69ef54ea5d2))
     (pad "2" thru_hole circle locked (at -5 3.8 41.9) (size 2 2) (drill 1.2) (layers *.Cu *.Mask)
       (net 31 "Net-(D31-Pad2)") (pinfunction "ROW") (pintype "passive") (tstamp 3628af1e-3e57-4cab-88b1-6cdedb3b6235))
+    (model "/Users/danny/Documents/proj/custom-keyboard/kicad-libs/3d_models/mx-switch.wrl"
+      (offset (xyz 7.467599888 7.467599888 5.943599911))
+      (scale (xyz 0.4 0.4 0.4))
+      (rotate (xyz 270 0 180))
+    )
+    (model "/Users/danny/Documents/proj/custom-keyboard/kicad-libs/3d_models/SA-R3-1u.wrl"
+      (offset (xyz 0 0 11.93799982))
+      (scale (xyz 0.394 0.394 0.394))
+      (rotate (xyz 270 0 0))
+    )
+  )
+
+  (footprint "Keebio-Parts:Kailh-PG1350-1u-NoLED" (layer "B.Cu")
+    (tedit 5E74EA2A) (tstamp aa594b1f-fd74-46a0-a124-e1d2aed26358)
+    (at 167.5375 51.59375 180)
+    (property "Sheetfile" "crowboard.kicad_sch")
+    (property "Sheetname" "")
+    (path "/10b2af37-12b7-4136-9935-8314f8334657")
+    (attr through_hole)
+    (fp_text reference "MX7" (at 0 7.14375) (layer "Dwgs.User")
+      (effects (font (size 1 1) (thickness 0.2)))
+      (tstamp 90a74f5e-7380-4ff0-bb5e-d9d5841f174b)
+    )
+    (fp_text value "MX-NoLED" (at 0 5.08) (layer "B.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.2)) (justify mirror))
+      (tstamp bd8354e6-6367-4dcd-aa20-50a90c915d71)
+    )
+    (fp_line (start 9 8.5) (end 9 -8.5) (layer "Dwgs.User") (width 0.1524) (tstamp 027a4dad-00b4-4a53-9b42-432b384a192d))
+    (fp_line (start -9 -8.5) (end -9 8.5) (layer "Dwgs.User") (width 0.1524) (tstamp 0be92f18-9451-48f6-a885-021a28204fa8))
+    (fp_line (start -9 8.5) (end 9 8.5) (layer "Dwgs.User") (width 0.1524) (tstamp 454079b5-5f56-4005-9bb0-cb1842e256b8))
+    (fp_line (start 9 -8.5) (end -9 -8.5) (layer "Dwgs.User") (width 0.1524) (tstamp df5e49c6-770d-49a3-bf1b-c97c8450671f))
+    (fp_line (start 6.9 -6.9) (end -6.9 -6.9) (layer "Cmts.User") (width 0.1524) (tstamp 4c90ebe5-93b6-420b-b1dc-c12cc22d9032))
+    (fp_line (start -6.9 -6.9) (end -6.9 6.9) (layer "Cmts.User") (width 0.1524) (tstamp 93be3a29-2795-4dcb-b650-950866dbdffa))
+    (fp_line (start -6.9 6.9) (end 6.9 6.9) (layer "Cmts.User") (width 0.1524) (tstamp d713a356-6e07-402d-bb59-0ebedc0ca5bc))
+    (fp_line (start 6.9 6.9) (end 6.9 -6.9) (layer "Cmts.User") (width 0.1524) (tstamp f28e0f09-8519-4a24-a7aa-2e5936bb6c3e))
+    (fp_line (start -9.525 -9.525) (end 9.525 -9.525) (layer "Eco1.User") (width 0.12) (tstamp 2b12877d-582c-4c5d-9e81-fa9198027b46))
+    (fp_line (start -9.525 9.525) (end 9.525 9.525) (layer "Eco1.User") (width 0.12) (tstamp 349eabd2-9157-4e6f-84c8-33beed084473))
+    (fp_line (start 9.525 9.525) (end 9.525 -9.525) (layer "Eco1.User") (width 0.12) (tstamp 6ff2874f-e693-46ee-9e7b-44354f6e5884))
+    (fp_line (start -9.525 9.525) (end -9.525 -9.525) (layer "Eco1.User") (width 0.12) (tstamp 7763ef0b-f541-4d0b-a22e-baccd8a596e4))
+    (fp_line (start 7.5 -7.5) (end -7.5 -7.5) (layer "Eco2.User") (width 0.1524) (tstamp 38e40ecc-0b74-4360-b05d-5535ecf737f5))
+    (fp_line (start 7.5 7.5) (end 7.5 -7.5) (layer "Eco2.User") (width 0.1524) (tstamp 400ae9a8-defa-4428-993d-d331f4c802a6))
+    (fp_line (start -7.5 7.5) (end 7.5 7.5) (layer "Eco2.User") (width 0.1524) (tstamp 4493977a-c5ba-41d3-aae3-c78a888a1e07))
+    (fp_line (start -7.5 -7.5) (end -7.5 7.5) (layer "Eco2.User") (width 0.1524) (tstamp cd6bb9a6-42c6-4a03-bda5-c16581b40e6d))
+    (pad "" np_thru_hole circle locked (at 0 0) (size 3.4 3.4) (drill 3.4) (layers *.Cu *.Mask) (tstamp 2053ab26-1e1f-41f2-941a-2145e049f58a))
+    (pad "" np_thru_hole circle locked (at 5.5 0) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp 60d114cf-436a-4a34-a8b2-f3ea0b595440))
+    (pad "" np_thru_hole circle locked (at -5.5 0) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp 6889c197-edb9-49db-b836-92a3b5f208f1))
+    (pad "1" thru_hole circle locked (at 0 -5.9) (size 2 2) (drill 1.2) (layers *.Cu *.Mask)
+      (net 90 "COL6") (pinfunction "COL") (pintype "passive") (tstamp c540006f-acfd-4f86-bab2-46f63ae58469))
+    (pad "2" thru_hole circle locked (at -5 -3.8 138.1) (size 2 2) (drill 1.2) (layers *.Cu *.Mask)
+      (net 7 "Net-(D7-Pad2)") (pinfunction "ROW") (pintype "passive") (tstamp 8b02e6cb-4e88-4235-83ef-509b8e3d6638))
     (model "/Users/danny/Documents/proj/custom-keyboard/kicad-libs/3d_models/mx-switch.wrl"
       (offset (xyz 7.467599888 7.467599888 5.943599911))
       (scale (xyz 0.4 0.4 0.4))
