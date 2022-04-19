@@ -6,4 +6,5 @@
   (lib (name "Keebio-Parts")(type "KiCad")(uri "D:/KiCad Projects/crow/CrowBoard/Keebio-Parts.pretty-master")(options "")(descr ""))
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "D:/KiCad Projects/crow/CrowBoard/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
   (lib (name "crow")(type "KiCad")(uri "D:/KiCad Projects/crow/CrowBoard/crow.pretty")(options "")(descr ""))
+  (lib (name "3dmodels")(type "KiCad")(uri "D:/KiCad Projects/crow/CrowBoard/Keebio-Parts.pretty-master/3dmodels")(options "")(descr ""))
 )
