@@ -7,4 +7,5 @@
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "C:/Users/alex2/Documents/Crowboard/CrowBoard/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
   (lib (name "crow")(type "KiCad")(uri "C:/Users/alex2/Documents/Crowboard/CrowBoard/crow.pretty")(options "")(descr ""))
   (lib (name "3dmodels")(type "KiCad")(uri "C:/Users/alex2/Documents/Crowboard/CrowBoard/Keebio-Parts.pretty-master/3dmodels")(options "")(descr ""))
+  (lib (name "other_parts")(type "KiCad")(uri "C:/Users/alex2/Documents/Crowboard/CrowBoard/other_parts.pretty")(options "")(descr ""))
 )
