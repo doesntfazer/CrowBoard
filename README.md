@@ -5,7 +5,7 @@ Revision 1 of this keyboard is built as followed.
 
 1. Solder on the diodes. if doing through hole diodes make sure that you do this before soldering in the switches or else you're going to have a very hard time. You will want to put them on the back of the board. This is the side with the large crow on it. You want to make sure that you solder them with the line facing left. Or towards the square pads. There is a diode per switch, so 36 in total.
 
-2. Solder on the Pico. you can surfact mount solder this to the board. I recommend putting some solder on one of the corner pads, setting the pico on top, then soldering it into place. You can also use pins if that suits you better. Before soldering the switches, I recommed you test each switch pad using some tweezers.
+2. Solder on the Pico. you can surface mount solder this to the board. I recommend putting some solder on one of the corner pads, setting the pico on top, then soldering it into place. You can also use pins if that suits you better. Before soldering the switches, I recommed you test each switch pad using some tweezers.
 
 3. Solder in the switches. Remember this board only supports Kailh Choc v1's
 
