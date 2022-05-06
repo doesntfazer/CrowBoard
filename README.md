@@ -12,3 +12,19 @@ Revision 1 of this keyboard is built as followed.
 4. put the rubber feet on the bottom of the board. 1 on each corner. 1 on the top middle of the board, and one on the bottom middle of the board.
 
 5. If you purchased a kit from KeyboardDweebs.net, your Pico came pre-flashed. When you plug it into your computer it will show up like a flash drive. You can open the code.py in a notepad and edit the keymap. See [KMK firmware's documentation](https://github.com/KMKfw/kmk_firmware/blob/master/docs/README.md) for more info. If you ordered these for yourself, or just bought the PCB's and sourced your hardware elsewhere, check out the [Keyboard Dweebs Firmware repository](https://github.com/doesntfazer/Keyboard-Dweebs-Firmware-repository/tree/main/KMK/CrowBoard) to get the right firmware. Don't forget to flash your board with [Circuit Python](https://circuitpython.org/board/raspberry_pi_pico/) before you transfer the files over.
+
+
+
+QMK Flashing instructions. (If desired, I still recommend KMK at this point)
+Please note: This has to be done in a linux enviroment as far as I am aware. I don't believe QMK Msys is supported either. At least in my testing. 
+Setting up your build enviroment:
+1. Use this to download the repository. git clone --branch feature/raspberry-pi-rp2040-support 
+2. cd into qmk_firmware folder
+3. See [setting up your build enviromet](https://docs.qmk.fm/#/getting_started_build_tools) to get the prerequisites installed.
+4. after that is completed run "make git-submodule"
+5. Then you can run  qmk compile -kb crowboard -km default
+6. once it is compiled it will show up in the .build folder as crowboard_default.uf2
+7. plug in the keyboard while holding the reset button down on the pico
+8. It should show up as RPI-RP2 in your file manager
+9. Drag and drop the .uf2 file into it. 
+10. You're done. Enjoy qmk on an RP2040
