@@ -9,3 +9,6 @@ At this time the only 2 keyboards that have been manufactured and tested are the
 Click the Links to be brought to the Build guides.
 
 1. [Rev1 and Rev1 MX](https://github.com/doesntfazer/CrowBoard/blob/main/Docs/Build%20Guides/Rev1-Build-Guide.md)
+
+
+This document will be updated as new releases are made. Please be patient.
