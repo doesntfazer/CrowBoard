@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "keebio")(type "Legacy")(uri "D:/KiCad Projects/crow/CrowBoard/keebio-components-master/keebio.lib")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "D:/KiCad Projects/crow/CrowBoard/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "D:/KiCad Projects/crow/CrowBoard/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+)
