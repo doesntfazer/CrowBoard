@@ -19,7 +19,7 @@ Revision 1 of this keyboard is built as followed.
 QMK Flashing instructions. (If desired, I still recommend KMK at this point)
 Please note: This has to be done in a linux enviroment as far as I am aware. I don't believe QMK Msys is supported either. At least in my testing. 
 Setting up your build enviroment:
-1. Use this to download the repository. git clone --branch feature/raspberry-pi-rp2040-support 
+1. Use this to download the repository. git clone --branch feature/raspberry-pi-rp2040-support https://github.com/doesntfazer/qmk_firmware.git
 2. cd into qmk_firmware folder
 3. See [setting up your build enviromet](https://docs.qmk.fm/#/getting_started_build_tools) to get the prerequisites installed.
 4. after that is completed run "make git-submodule"
