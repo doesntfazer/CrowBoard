@@ -12,14 +12,14 @@ Revision 1 of this keyboard is built as followed.
 
 4. put the rubber feet on the bottom of the board. 1 on each corner. 1 on the top middle of the board, and one on the bottom middle of the board.
 
-5. If you purchased a kit from KeyboardDweebs.net, your Pico came pre-flashed. When you plug it into your computer it will show up like a flash drive. You can open the code.py in a notepad and edit the keymap. See [KMK firmware's documentation](https://github.com/KMKfw/kmk_firmware/blob/master/docs/README.md) for more info. If you ordered these for yourself, or just bought the PCB's and sourced your hardware elsewhere, check out the [Keyboard Dweebs Firmware repository](https://github.com/doesntfazer/Keyboard-Dweebs-Firmware-repository/tree/main/KMK/CrowBoard) to get the right firmware. Don't forget to flash your board with [Circuit Python](https://circuitpython.org/board/raspberry_pi_pico/) before you transfer the files over. If you'd rather use QMK, please see the below instructions, and you can disregard anything that has to do with flashing 
+5. If you purchased a kit from KeyboardDweebs.net, your Pico came pre-flashed. When you plug it into your computer it will show up like a flash drive. You can open the main.py (code.py if you bought the board prior to 5/22/2022) in a notepad and edit the keymap. See [KMK firmware's documentation](https://github.com/KMKfw/kmk_firmware/blob/master/docs/README.md) for more info. If you ordered these for yourself, or just bought the PCB's and sourced your hardware elsewhere, check out the [Keyboard Dweebs Firmware repository](https://github.com/doesntfazer/Keyboard-Dweebs-Firmware-repository/tree/main/KMK/CrowBoard) or follow the instructions on [KMK's github](https://github.com/KMKfw/kmk_firmware/blob/master/docs/README.md) to get the right firmware. Crowboard is now an offically supported keyboard. Don't forget to flash your board with [Circuit Python](https://circuitpython.org/board/raspberry_pi_pico/) before you transfer the files over. If you'd rather use QMK, please see the below instructions, and you can disregard anything that has to do with flashing 
 
 
 
 QMK Flashing instructions. (If desired, I still recommend KMK at this point)
 Please note: This has to be done in a linux enviroment as far as I am aware. I don't believe QMK Msys is supported either. At least in my testing. 
 Setting up your build enviroment:
-1. Use this to download the repository. git clone --branch feature/raspberry-pi-rp2040-support 
+1. Use this to download the repository. git clone --branch feature/raspberry-pi-rp2040-support https://github.com/doesntfazer/qmk_firmware.git
 2. cd into qmk_firmware folder
 3. See [setting up your build enviromet](https://docs.qmk.fm/#/getting_started_build_tools) to get the prerequisites installed.
 4. after that is completed run "make git-submodule"
